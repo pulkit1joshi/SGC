@@ -1,4 +1,6 @@
 # Simple Graph Convolution
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/simplifying-graph-convolutional-networks/text-classification-on-ohsumed)](https://paperswithcode.com/sota/text-classification-on-ohsumed?p=simplifying-graph-convolutional-networks) [![codebeat badge](https://codebeat.co/badges/0ec71c2f-c9b1-4a29-9df9-caf1bd09e186)](https://codebeat.co/projects/github-com-pulkit1joshi-sgc-main)
+
 Pytorch implementation of **Simple Graph Convolution*** as presented in [***"Simplifying Graph Convolutional Networks"***](https://arxiv.org/abs/1902.07153)
 
 ## Abstract 
